@@ -1,4 +1,4 @@
-# AI Project Computer Science Department
+# AI for Health - Team Python
 - Mr. Drummond
 - Dr. Buncher
 - Mr. Monzote
